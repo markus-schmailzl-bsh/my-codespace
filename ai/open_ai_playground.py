@@ -13,6 +13,7 @@ import requests
 # # Print the response
 # print(response['choices'][0]['message']['content'].strip())
 
+# cd /workspaces/my-codespac/ai
 #python open_ai_playground.py && chafa /tmp/generated_image.png
 
 from openai import OpenAI
